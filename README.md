@@ -1,6 +1,6 @@
 # JongbeenSong_202001862
 
-for advanced python programming
+for advanced python programming (FRI 123)
 
 안녕하세요, ELLT학과 202001862번 송종빈입니다. 주전공은 ELLT(English Linguistics & Language Technology), 이중전공은 컴퓨터전자시스템공학부입니다.
 
